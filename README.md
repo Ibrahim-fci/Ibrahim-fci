@@ -1,5 +1,1 @@
-   Hi i am ibrahim ismail  
-   
-i am a software developer   
-graduated from faculty of computers and informatics  suez canal university
-
+As a skilled software engineer with a focus on website development, I possess a wide range of technical skills and experience. I am proficient in front-end web development technologies, including HTML, CSS, and JavaScript, and have experience using popular CSS frameworks like Bootstrap and Tailwind. My expertise extends to back-end programming languages like Python and Node.js, with experience using databases such as SQL and MongoDB. Additionally, I am skilled in using popular web development frameworks like React and Django, as well as the Express framework for Node.js. I have experience with version control using Git, and I am always eager to learn new technologies and skills to improve my development capabilities. With my diverse skill set and experience, I am confident in my ability to tackle a wide range of web development challenges and deliver high-quality, user-friendly websites and web applications
