@@ -70,16 +70,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-fci&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-fci&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ibrahim-fci&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
